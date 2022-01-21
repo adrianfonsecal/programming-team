@@ -1,0 +1,13 @@
+Trabajar git de forma local
+
+$git init {seleccionar carpeta}
+
+$git config --global {Global main}
+
+$git add .
+
+$git commit -m "Branch de Luismi"
+
+$git remote add origin {Opcional}
+
+$git push
