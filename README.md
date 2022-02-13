@@ -2,15 +2,15 @@
 ![(representacion de proyecto)](Demo.jpg)
 ## Team Members
 
- [Cruz Inzunza Luis Alejandro]()
+ [Cruz Inzunza Luis Alejandro](https://github.com/Luis-Inzunza)
 
- [Fonseca Loria Adrian]()
+ [Fonseca Loria Adrian](https://github.com/adrianfonsecal)
 
- [Magaña Garcia Jose Angel]()
+ [Magaña Garcia Jose Angel](https://github.com/Xmahana)
 
- [Medina Avila Luis Miguel]()
+ [Medina Avila Luis Miguel](https://github.com/LuisMiguelMedina)
 
- [Perez Cruz David Leobardo]()
+ [Perez Cruz David Leobardo](https://github.com/DavidPerez007)
 
 ## About our work
 
@@ -18,12 +18,12 @@ We are from software engineering in 2nd semester working in a better way to obta
 
 ## index
 
-* [Requirements]()
-* [User Stories]()
-* [Case Diagram]()
-* [Standar Coding]()
-* [Work Method and Organization]()
-* [Logbook](https://docs.google.com/spreadsheets/d/1IKSODftHHh33ZsO3MBPw1qvBbro4jPD-o8CeMDhW_Ro/edit#gid=1544490639)
+* [Requirements](Files/Requirements.md)
+* [User Stories](Files/UserStories.md)
+* [Case Diagram](Files/CaseDiagram.md)
+* [Standar Coding](Files/StandarCoding.md)
+* [Work Method and Organization](Files/WorkMethod.md)
+* [Logbook](Files/Logbook.md)
 
 ## First Stage
 
