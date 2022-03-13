@@ -19,8 +19,6 @@ We are from software engineering in 2nd semester working in a better way to obta
 ## index
 
 * [Requirements](Files/Requirements.md)
-* [User Stories](Files/UserStories.md)
-* [Case Diagram](Files/CaseDiagram.md)
 * [Standar Coding](Files/StandarCoding.md)
 * [Work Method and Organization](Files/WorkMethod.md)
 * [Logbook](Files/Logbook.md)
