@@ -1,0 +1,1 @@
+Anotaremos el dia y posiblemente hora en la que hagamos reuniones, ya sea solo en equipo o con el profesor. TODAS LAS JUNTAS
