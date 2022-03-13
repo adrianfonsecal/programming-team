@@ -1,0 +1,1 @@
+Anotaremos los requerimientos de usuarios y requerimientos de sistema (en funcionales y no funcionales).

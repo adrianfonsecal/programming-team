@@ -1,0 +1,1 @@
+Historias de usuarios generadas por las encuenstas, agregaremos la encuesta que realizamos, las concluciones y las historias de usuarios que descatamos por este metodo.
