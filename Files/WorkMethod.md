@@ -1,6 +1,3 @@
-Aqui hablaremos de como sera nuestra forma de llevar a cabo el proyecto, es importante que especifiquemos algunas comsas como la metodologia y nuestra forma de priorizar de alta/media/baja.
-Al igual que los papeles que llevara cada quien basandonos en la metodologia que usaremos.
-
 # Methodology
 The team has a work philosophy that emphasizes intuition, emotional health and teamwork, the team has the ability to make decisions about their action plans for their assigned tasks and the freedom to choose their co-workers who will help them to finish their goal. Our methodology is based on a hybrid of SCRUM and waterfall, since we have a sprint of approximately 3 weeks where we are increasing the product stack with new artifacts that will allow us to see the results of the product. At the end of each sprint we launch a validation survey to create new User Stories that allow us to have a clear vision of whether what we are doing is the right thing.
 # Team tools
