@@ -1,2 +1,0 @@
-Aqui hablaremos de como sera nuestra forma de llevar a cabo el proyecto, es importante que especifiquemos algunas comsas como la metodologia y nuestra forma de priorizar de alta/media/baja.
-Al igual que los papeles que llevara cada quien basandonos en la metodologia que usaremos.
