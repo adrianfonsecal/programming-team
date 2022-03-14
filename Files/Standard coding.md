@@ -1,14 +1,5 @@
-# Estandarizacion de Codificacion
+# Coding standarization
 
-### Index
-
-* [Nombrado de archivos](#Item1)
-* [Documentacion Inicial](#Item2)
-* [Nombrado de variables](#Item3)
-* [Documentacion de Funciones](#Item4)
-* [Espaciamiento](#Item5)
-
-___
 <a name="Item1"></a>
 
 ## File naming
