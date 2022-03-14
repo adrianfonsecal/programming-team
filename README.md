@@ -19,19 +19,14 @@ We are from software engineering in 2nd semester working in a better way to obta
 ## index
 
 * [Requirements](Files/Requirements.md)
-* [User Stories](Files/UserStories.md)
-* [Case Diagram](Files/CaseDiagram.md)
 * [Standar Coding](Files/StandarCoding.md)
 * [Work Method and Organization](Files/WorkMethod.md)
-* [Logbook](Files/Logbook.md)
+* [Logbook](Files/LogBook.pdf)
 
 ## First Stage
 
-* [Material of presentation]()
+* [Material of presentation](Files/FirstStage_Presentation.pdf)
 
 * [Metric of Progress]()
 
 * [Video presentation]()
-
-
-
