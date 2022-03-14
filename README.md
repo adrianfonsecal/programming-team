@@ -25,11 +25,8 @@ We are from software engineering in 2nd semester working in a better way to obta
 
 ## First Stage
 
-* [Material of presentation]()
+* [Files/FirstStage_Presentation.pdf]()
 
 * [Metric of Progress]()
 
 * [Video presentation]()
-
-
-
