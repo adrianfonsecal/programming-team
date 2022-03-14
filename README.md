@@ -16,7 +16,7 @@
 
 We are from software engineering in 2nd semester working in a better way to obtain the most important and interesting information and notice from the page of us university UADY (Universidad Autonoma De Yucatan) more specifically from the faculty of mathematics and faculty of chemistry.
 
-## index
+## Index
 
 * [Requirements](Files/Requirements.md)
 * [Standar Coding](Files/StandarCoding.md)
@@ -27,6 +27,6 @@ We are from software engineering in 2nd semester working in a better way to obta
 
 * [Material of presentation](Files/FirstStage_Presentation.pdf)
 
-* [Metric of Progress]()
+* [Metric of Progress](Files/Metrics.png)
 
-* [Video presentation]()
+* [Video presentation](https://youtu.be/43cPdTONF68)
