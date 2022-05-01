@@ -34,3 +34,6 @@ By this means we create the surveys that are necessary to get feedback from our 
 
 Visual will be the medium through which we create our system, while we also use it to have a better visibility at the time of coding.
 Something to highlight is the fact of using "live share" to work together for the same code.
+
+## Discord
+<!-- Luis:Colocar discord.png aqui-->
