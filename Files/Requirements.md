@@ -1,4 +1,3 @@
-
 # Requeriments
 
 ## Index
@@ -13,7 +12,7 @@
 
 <a name="Item0"></a>
 
-## Survey and survey analisis
+## Survey and survey analysis
 
 In search of the problem of misinformation of our partners, we decided to make a survey to validate our suspicions. And based on the [results obtained](Graphics.md), we carried out the documentation of the project.
 

@@ -6,7 +6,7 @@
 
 1. All file names must begin with a capital letter.
 
-    XX ~~Code.java~~ XX
+    XX ~~code.java~~ XX
 
     ✓✓  Code.java  ✓✓
     
