@@ -1,3 +1,0 @@
-# Diagram Class
-
-# Interface Design
