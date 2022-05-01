@@ -1,6 +1,6 @@
 # FerMIT
 
-![(representacion de proyecto)](Demo.jpg "Logo in progress ")
+![(representacion de proyecto)](Fermit_logo.png "Logo in progress ")
 
 ## Team Members :star2:
 
