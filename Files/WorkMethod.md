@@ -36,4 +36,6 @@ Visual will be the medium through which we create our system, while we also use 
 Something to highlight is the fact of using "live share" to work together for the same code.
 
 ## Discord
-<!-- Luis:Colocar discord.png aqui-->
+![Discord](Discord.png "FerMIT")
+
+Discord is the platform that we are going to use for the FerMIT bot development. This platform allow us to comunicate more easily with the user via private chats, also this is one of the most common apps used for comunication. Discord will also be used by the developer team as a alternative comunication tool in cases where google its not the main option.
