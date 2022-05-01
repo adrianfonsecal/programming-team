@@ -1,6 +1,8 @@
-# (Name proyect)
-![(representacion de proyecto)](Demo.jpg)
-## Team Members
+# FerMIT
+
+![(representacion de proyecto)](Demo.jpg "Logo in progress ")
+
+## Team Members :star2:
 
  [Cruz Inzunza Luis Alejandro](https://github.com/Luis-Inzunza)
 
@@ -12,21 +14,31 @@
 
  [Perez Cruz David Leobardo](https://github.com/DavidPerez007)
 
-## About our work
+## About our work 
 
-We are from software engineering in 2nd semester working in a better way to obtain the most important and interesting information and notice from the page of us university UADY (Universidad Autonoma De Yucatan) more specifically from the faculty of mathematics and faculty of chemistry.
+We are software engineers from UADY´s Faculty of mathematics and we are developing a software system that could help with the lack of information about documentation processes on the campus.
 
-## Index
+## Index :open_file_folder:
 
 * [Requirements](Files/Requirements.md)
+* [Design](Files/Desing.md)
+* [Coding Fermit](Files/Coding.md)
 * [Standar Coding](Files/StandarCoding.md)
 * [Work Method and Organization](Files/WorkMethod.md)
 * [Logbook](Files/LogBook.pdf)
 
-## First Stage
+## First Stage :closed_book:
 
 * [Material of presentation](Files/FirstStage_Presentation.pdf)
 
 * [Metric of Progress](Files/Metrics.png)
 
 * [Video presentation](https://youtu.be/43cPdTONF68)
+
+## Second Stage :blue_book:
+
+* [Material of presentation](Files/SecondStage_Presentation.pdf)
+
+* [Metric of Progress](Files/Metrics2.png)
+
+* [Video presentation]()
