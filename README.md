@@ -1,6 +1,6 @@
 # FerMIT
 
-![(representacion de proyecto)](Demo.jpg "Logo in progress ")
+![(representacion de proyecto)](Fermit_logo.png "Logo in progress ")
 
 ## Team Members :star2:
 
@@ -21,7 +21,7 @@ We are software engineers from UADY´s Faculty of mathematics and we are develop
 ## Index :open_file_folder:
 
 * [Requirements](Files/Requirements.md)
-* [Design](Files/Desing.md)
+* [Design](Files/Design.md)
 * [Coding Fermit](Files/Coding.md)
 * [Standar Coding](Files/StandarCoding.md)
 * [Work Method and Organization](Files/WorkMethod.md)
