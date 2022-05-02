@@ -18,7 +18,7 @@ This diagram shows the classes that will be interacting in the software, these c
 
 Every class has attributes, which represent its characteristics, they also have methods, which are the actions that the class must perform.
 
-![Diagram Class](class_diagram.png)
+![Diagram Class](Diagram_classes.png)
 
 # Interface Design
 
