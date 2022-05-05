@@ -1,7 +1,7 @@
 # programming-team
 We will be pushing all the commits in this repo in order to be building the whole project. 
 
-<<<<<<< HEAD
+
 ![(representacion de proyecto)](Fermit_logo.png "Logo in progress ")
 
 ## Team Members :star2:
