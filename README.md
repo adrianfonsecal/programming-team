@@ -2,6 +2,8 @@
 
 ![(representacion de proyecto)](Fermit_logo.png "Logo in progress ")
 
+[Meet Fermit!! :wave: ]()
+
 ## Team Members :star2:
 
  [Cruz Inzunza Luis Alejandro](https://github.com/Luis-Inzunza)
@@ -42,3 +44,11 @@ We are software engineers from UADY´s Faculty of mathematics and we are develop
 * [Metric of Progress](Files/Metrics2.png)
 
 * [Video presentation](https://youtu.be/qL2UxZui-xk)
+
+## Final :books:
+
+* [Material of presentation]()
+
+* [Metric of Progress]()
+
+* [Video presentation]()
