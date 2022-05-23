@@ -8,7 +8,6 @@
 * [Scope and limitations of the project](#Item3)
 * [Functional Requirements](#Item4)
 * [Requerimientos No Funcionales](#Item5)
-* [Diagram Case](#Item6)
 
 <a name="Item0"></a>
 
