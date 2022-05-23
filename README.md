@@ -1,4 +1,6 @@
-# FerMIT
+# programming-team
+We will be pushing all the commits in this repo in order to be building the whole project. 
+
 
 ![(representacion de proyecto)](Fermit_logo.png "Logo in progress ")
 
@@ -45,6 +47,7 @@ We are software engineers from UADY´s Faculty of mathematics and we are develop
 
 * [Video presentation](https://youtu.be/qL2UxZui-xk)
 
+
 ## Final :books:
 
 * [Material of presentation]()
@@ -52,3 +55,4 @@ We are software engineers from UADY´s Faculty of mathematics and we are develop
 * [Metric of Progress]()
 
 * [Video presentation]()
+
