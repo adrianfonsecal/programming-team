@@ -52,7 +52,7 @@ We are software engineers from UADY´s Faculty of mathematics and we are develop
 
 * [Material of presentation]()
 
-* [Metric of Progress]()
+* [Metric of Progress](Final_Metrics.png)
 
-* [Video presentation]()
+* [Video presentation](https://youtu.be/qL2UxZui-xk)
 

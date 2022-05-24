@@ -4,13 +4,6 @@ The code uses the library Discord.py for the programming language python. We use
 
 ## Commands
 
-!ayuda: Displays a help message for the user to interact with the app.
-
-!comandos:  Displays the commands that will be used to send the information of the procedures to the user.
+The comands like !ayuda, !comandos, !tramites is used for send messange.
 
 
-## Index Code
-
-* [Index](FerMIT/src/index.py)
-
-* [Text](FerMIT/src/Info/info.py)
