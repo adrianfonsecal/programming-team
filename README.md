@@ -4,7 +4,7 @@ We will be pushing all the commits in this repo in order to be building the whol
 
 ![(representacion de proyecto)](Fermit_logo.png "Logo in progress ")
 
-[Meet Fermit!! :wave: ]()
+[Meet Fermit!! :wave: ](Files/Meet_FerMIT.mp4)
 
 ## Team Members :star2:
 
@@ -50,9 +50,9 @@ We are software engineers from UADY´s Faculty of mathematics and we are develop
 
 ## Final :books:
 
-* [Material of presentation]()
+* [Material of presentation](/Files/Final%20Presentation.pdf)
 
 * [Metric of Progress](Final_Metrics.png)
 
-* [Video presentation](https://youtu.be/qL2UxZui-xk)
+* [Video presentation](https://youtu.be/RUgLDUVWDwQ)
 
